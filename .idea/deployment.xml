@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="https://github.com/kasaudhanshivani" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" serverName="https://github.com/kasaudhanshivani" uploadOnCheckin="2814032d-16b4-4cbc-8edb-ada9805063a7" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="https://github.com/kasaudhanshivani">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/kasaudhanshivani" />
   </component>
 </project>

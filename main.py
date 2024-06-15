@@ -6,7 +6,8 @@ if __name__ == '__main__':
         x = input("Enter what you want to pronounce: ")
         if x.lower() == "quit":
             bye_command = 'powershell -Command "Add-Type -AssemblyName System.Speech; ' \
-                          '$speak = New-Object System.Speech.Synthesis.SpeechSynthesizer; ' \
+                          ('$speak = New-Object System.S'
+                           'peech.Synthesis.SpeechSynthesizer; ') \
                           '$speak.Speak(\'bye bye friend\');"'
             os.system(bye_command)
             break
